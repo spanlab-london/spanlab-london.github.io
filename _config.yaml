@@ -1,3 +1,7 @@
+# adding 
+baseurl: ""
+url: "https://test-lab-org.github.io"
+
 # site properties and page defaults
 title: SPAN Lab
 subtitle: 
