@@ -1,10 +1,11 @@
 ---
-name: John Doe
+name: Andres Guzman
 image: images/photo.jpg
+description: 
 role: phd
-group: alum
 links:
-  github: john-doe
+  email: sarah.johnson@gmail.com
+  twitter: sarahjohnson
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

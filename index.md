@@ -1,22 +1,21 @@
 ---
 ---
 
-# Lab Website Template
+# Welcome to SPAN Lab
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+Led by Professor István Zoltán Kiss at the Network Science Institute, Northeastern University London, the SPAN Lab investigates how contagion processes unfold on complex networks, from the spread of infectious diseases to the diffusion of behaviours and ideas. A core focus is epidemic modelling that incorporates human behaviour, drawing on health psychology to capture risk perception, compliance, and decision-making, with particular attention to vulnerable settings such as care homes. In parallel, the Lab advances the mathematics of contagion beyond pairwise interactions—using higher-order networks to capture complex social and structural effects—and apply these frameworks to critical infrastructure networks, such as global shipping and power systems. By bridging rigorous mathematical theory with behavioural and applied insights, the Lab seeks to uncover universal principles of contagion while informing interventions that enhance public health and societal resilience.
 
-{%
+<!-- {%
   include button.html
   type="docs"
   link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
-{%
+%} -->
+<!-- {%
   include button.html
   type="github"
   text="On GitHub"
   link="greenelab/lab-website-template"
-%}
+%} -->
 
 {% include section.html %}
 

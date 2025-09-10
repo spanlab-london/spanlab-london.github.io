@@ -18,12 +18,40 @@
 >
   <a href="{{ "/" | relative_url }}" class="home">
     {% if logo %}
-      <span class="logo">
-        {% if svg %}
+      <span class="logo"> 
+        <svg id="s-svg" viewBox="10 0 40 80">
+            <!-- Top: TWO separate simplicial complexes -->
+            <polygon class="triangle" points="15,12 45,12 15,26"/>
+            <polygon class="triangle" points="15,26 45,40 15,40"/>
+            
+            <!-- Bottom: TWO separate simplicial complexes -->
+            <polygon class="triangle" points="45,40 45,54 15,40"/>
+            <polygon class="triangle" points="45,54 45,68 15,68"/>
+            
+            <!-- S-shaped edges -->
+            <line class="edge" x1="15" y1="12" x2="45" y2="12"/>
+            <line class="edge" x1="15" y1="12" x2="15" y2="26"/>
+            <line class="edge" x1="15" y1="26" x2="15" y2="40"/>
+            <line class="edge" x1="15" y1="40" x2="45" y2="40"/>
+            <line class="edge" x1="45" y1="40" x2="45" y2="54"/>
+            <line class="edge" x1="45" y1="54" x2="45" y2="68"/>
+            <line class="edge" x1="45" y1="68" x2="15" y2="68"/>
+            
+            <!-- S-shaped vertices -->
+            <circle class="node" cx="15" cy="12" r="5"/>
+            <circle class="node" cx="45" cy="12" r="5"/>
+            <circle class="node" cx="15" cy="26" r="5"/>
+            <circle class="node" cx="15" cy="40" r="5"/>
+            <circle class="node" cx="45" cy="40" r="5"/>
+            <circle class="node" cx="45" cy="54" r="5"/>
+            <circle class="node" cx="45" cy="68" r="5"/>
+            <circle class="node" cx="15" cy="68" r="5"/>
+        </svg>         
+        <!-- {% if svg %}
           {{ svg | file_read }}
         {% else %}
           <img src="{{ logo | relative_url | uri_escape }}" alt="logo">
-        {% endif %}
+        {% endif %} -->
       </span>
     {% endif %}
     {% if site.logo-text != false %}
