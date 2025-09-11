@@ -17,7 +17,7 @@ errors = []
 warnings = []
 
 # output citations file
-output_file = "../_data/citations.yaml"
+output_file = "_data/citations2.yaml"
 
 
 log()
@@ -38,10 +38,10 @@ for plugin in plugins:
     log(f"Running {plugin.stem} plugin")
 
     # get all data files to process with current plugin
-    files = Path.cwd().glob(f"../_data/{plugin.stem}*.*")
+    files = Path.cwd().glob(f"_data/{plugin.stem}*.*")
 
     files = list(filter(lambda p: p.suffix in [".yaml", ".yml", ".json"], files))
-    
+    print(files)
     log(f"Found {len(files)} {plugin.stem}* data file(s)", indent=1)
 
     # loop through data files
