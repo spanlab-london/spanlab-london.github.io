@@ -6,36 +6,15 @@
 />
 
 <!-- include all sass in styles folder -->
-<!-- Replacing:
-  <link
-  href="{{ style.path | replace: ".scss", ".css" | relative_url }}"
-  rel="stylesheet"
-  />
-
-With:
-
-  <link
-  href="{{ style.name | prepend: '/assets/css/' | replace: '.scss', '.css' | relative_url }}"
-  rel="stylesheet"
-  />  
-For "production" build on GitHub pages..
--->
 {% assign styles = site.pages
   | where_exp: "file", "file.url contains '/_styles'"
 %}
 {% for style in styles %}
   {% unless style.url contains ".map" %}
-    {% if jekyll.environment == "production" %}
-      <link
-        href="{{ style.name | prepend: '/assets/css/' | replace: '.scss', '.css' | relative_url }}"
-        rel="stylesheet"
-      />
-    {% else %}
-      <link
-        href="{{ style.path | replace: ".scss", ".css" | relative_url }}"
-        rel="stylesheet"
-      />
-    {% endif %}
+    <link
+      href="{{ style.path | replace: ".scss", ".css" | relative_url }}"
+      rel="stylesheet"
+    />
   {% endunless %}
 {% endfor %}
 
