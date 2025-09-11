@@ -1,5 +1,10 @@
 """
 cite process to convert sources and metasources into full citations
+
+TODO: install `dotenv` and other missing requirements into local env
+$ python3 -m venv venv
+$ source venv/bin/activate
+$ pip install -r _cite/requirements.txt
 """
 
 import traceback
@@ -28,7 +33,7 @@ log("Compiling sources")
 sources = []
 
 # in-order list of plugins to run
-plugins = ["google-scholar", "pubmed", "orcid", "sources"]
+plugins = [ "pubmed", "orcid", "sources"]
 
 # loop through plugins
 for plugin in plugins:

@@ -1,4 +1,4 @@
-# adding url / deploy from branch
+# adding urls for local build deploy from branch
 baseurl: ""
 url: "https://test-lab-org.github.io"
 
