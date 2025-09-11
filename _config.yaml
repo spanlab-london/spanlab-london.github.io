@@ -1,3 +1,7 @@
+# adding urls for local build deploy from branch
+baseurl: ""
+url: "https://test-lab-org.github.io"
+
 # site properties and page defaults
 title: SPAN Lab
 subtitle: 
@@ -59,11 +63,9 @@ highlighter: rouge
 # jekyll theme
 theme: null
 
-# sass settings, adding load_paths: _styles here for styles:
+# sass settings
 sass:
   sass_dir: _styles
-  load_paths:
-    - _styles
 
 # force jekyll to include certain files/folders
 include:
