@@ -1,16 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 80">
   <style>
     .triangle {
-      fill: rgba(52, 152, 219, 0.1); /* Light blue fill for simplexes */
+      /* fill: rgba(255, 255, 0, 0.24); /* NOTE: Light blue to fill for simplexes will not work with slate background. */
+      fill: rgba(79, 209, 197, 0.15); /* Semi-transparent teal */
     }
     .edge {
-      stroke: #2c3e50; /* Dark gray for edges */
+      /* NOTE: replaced edge colors */
+      stroke: #a0aec0; /* Light gray */
       stroke-width: 4;
       transition: all 0.3s;
     }
     .node {
-      fill: #e74c3c; /* Red for nodes */
-      stroke: #c0392b; /* Darker red stroke */
+      /* NOTE: replaced node colors */
+      fill: #4fd1c5; /* teal */
+      stroke: #2c7a7b; /* darker teal for stroke */
       stroke-width: 2;
       transition: all 0.3s;
     }

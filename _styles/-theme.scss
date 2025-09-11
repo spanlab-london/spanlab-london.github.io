@@ -13,12 +13,20 @@
   --dark-gray: #404040;
   --overlay: #00000020;
 }
+// removing the background image from `_config.yaml`
+// causes fall back to `data-dark="true"`:
 [data-dark="true"] {
   --primary: #0795d9;
   --secondary: #075985;
   --text: #ffffff;
-  --background: #181818;
-  --background-alt: #1c1c1c;
+  // NOTE: default background is too dark:
+  // --background: #181818;
+  // --background-alt: #1c1c1c;
+  // NOTE: replacing with:
+  // #2d3748; // slate gray (not black) 
+  // or #1a202c for navy blue?
+  --background: #2d3748; // slate gray (not black) 
+  --background-alt: #2d3748; // slate gray (not black)
   --light-gray: #404040;
   --gray: #808080;
   --dark-gray: #b0b0b0;
