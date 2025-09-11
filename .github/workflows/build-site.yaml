@@ -33,6 +33,12 @@ jobs:
           ruby-version: "3.2.2" # <- changed to my local `$ ruby -v`: `ruby 3.2.2 (2023-03-30 revision e51014f9c0) [arm64-darwin24]`
           bundler-cache: true
 
+# # maybe this will be needed in build process to install requirements for automatic citations to work:
+#       - name: Build citations and process styles
+#         run: |
+#           pip install -r _cite/requirements.txt
+#           python _cite/cite.py
+
       - name: Get Pages url
         id: pages
         uses: actions/configure-pages@v4
