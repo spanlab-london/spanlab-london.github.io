@@ -30,7 +30,7 @@ jobs:
       - name: Install Ruby packages
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.1"
+          ruby-version: "3.2.2" # <- changed to my local `$ ruby -v`: `ruby 3.2.2 (2023-03-30 revision e51014f9c0) [arm64-darwin24]`
           bundler-cache: true
 
       - name: Get Pages url
