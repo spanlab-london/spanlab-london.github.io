@@ -33,21 +33,21 @@ jobs:
           ruby-version: "3.2.2" # <- changed to my local `$ ruby -v`: `ruby 3.2.2 (2023-03-30 revision e51014f9c0) [arm64-darwin24]`
           bundler-cache: true
 
-      # - name: Get Pages url
-      #   id: pages
-      #   uses: actions/configure-pages@v4
+      - name: Get Pages url
+        id: pages
+        uses: actions/configure-pages@v4
 
       - name: SSH debug
         if: runner.debug == '1'
         uses: mxschmitt/action-tmate@v3
 
-      # - name: Set root url
-      #   run: |
-      #     printf "\n\nurl: ${{ steps.pages.outputs.origin }}" >> _config.yaml
+      - name: Set root url
+        run: |
+          printf "\n\nurl: ${{ steps.pages.outputs.origin }}" >> _config.yaml
 
-      # - name: Build live version of site
-      #   run: |
-      #     JEKYLL_ENV=production bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path || '' }}"
+      - name: Build live version of site
+        run: |
+          JEKYLL_ENV=production bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path || '' }}"
 
       - name: Commit live site to Pages branch
         uses: JamesIves/github-pages-deploy-action@v4.5.0
