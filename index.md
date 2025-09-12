@@ -3,7 +3,9 @@
 
 # Welcome to SPAN Lab - TEST
 
-The SPAN Lab investigates how contagion processes unfold on complex networks, from the spread of infectious diseases to the diffusion of behaviours and ideas. A core focus is epidemic modelling that incorporates human behaviour, drawing on health psychology to capture risk perception, compliance, and decision-making, with particular attention to vulnerable settings such as care homes. In parallel, the Lab advances the mathematics of contagion beyond pairwise interactions—using higher-order networks to capture complex social and structural effects—and apply these frameworks to critical infrastructure networks, such as global shipping and power systems. By bridging rigorous mathematical theory with behavioural and applied insights, the Lab seeks to uncover universal principles of contagion while informing interventions that enhance public health and societal resilience.
+<!-- The SPAN Lab investigates how contagion processes unfold on complex networks, from the spread of infectious diseases to the diffusion of behaviours and ideas. A core focus is epidemic modelling that incorporates human behaviour, drawing on health psychology to capture risk perception, compliance, and decision-making, with particular attention to vulnerable settings such as care homes. In parallel, the Lab advances the mathematics of contagion beyond pairwise interactions—using higher-order networks to capture complex social and structural effects—and apply these frameworks to critical infrastructure networks, such as global shipping and power systems. By bridging rigorous mathematical theory with behavioural and applied insights, the Lab seeks to uncover universal principles of contagion while informing interventions that enhance public health and societal resilience. -->
+
+The SPAN Lab explores how things spread through complex networks—from viruses to behaviours to technological systems. Working at the intersection of graph theory, stochastic processes, dynamical systems, and statistical inference, we uncover the intricate interplay between network structure and dynamics. We blend mathematical rigor with realism and apply these insights across scales—from fundamental results to applied research ranging from social to technological systems.
 
 <!-- {%
   include button.html
@@ -27,7 +29,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="research"
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -39,8 +41,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  link="publications"
+  title="Our Publications"
   text=text
 %}
 

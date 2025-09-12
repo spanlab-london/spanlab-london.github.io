@@ -1,5 +1,5 @@
 ---
-name: Andres Guzman
+name: Andrés Guzmán
 image: images/photo.jpg
 description: 
 role: phd
