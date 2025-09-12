@@ -20,7 +20,7 @@
 
 - title: Beyond Simple Contagion, Integrating Behaviour into Epidemic Models 
   subtitle: 
-  image: images/photo.jpg
+  image: images/behav-2.svg
   link: 
   description: Epidemics are shaped not just by pathogens, but by human behaviour. We combine epidemiology with insights from psychology and social science to understand how risk perception, compliance, and behavioural change interact with disease dynamics. 
   repo:
@@ -50,7 +50,7 @@
 
 - title: Quantitiave tools for applications in health
   subtitle: 
-  image: images/photo.jpg
+  image: images/care-homes-1.png
   link: 
   description: We apply quantitative modelling tools to address health challenges, including infection control in care homes, patient care pathways, and survival analysis of diseases such as glioma. These projects aim to bridge theory and practice, using network science to improve real-world healthcare outcomes. 
   repo:
