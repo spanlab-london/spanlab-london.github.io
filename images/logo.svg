@@ -1,4 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 80">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 75">
+  <!-- notes: 
+    * spacing b/w letters is controlled by `transform=translate(x, y)` property on each letter group
+    * overall size is controlled by `viewBox` attribute on the main <svg> element
+   -->
+
   <style>
     .triangle {
       /* fill: rgba(255, 255, 0, 0.24); /* NOTE: Light blue to fill for simplexes will not work with slate background. */
@@ -18,7 +23,7 @@
       transition: all 0.3s;
     }
   </style>
-
+  
   <!-- Letter S -->
   <g id="span-s">
     <polygon class="triangle" points="15,12 45,12 15,26"/>
@@ -61,7 +66,7 @@
   </g>
 
   <!-- Letter A -->
-  <g id="span-a" transform="translate(105, 0)">
+  <g id="span-a" transform="translate(90, 0)">
     <polygon class="triangle" points="30,12 22,42 38,42"/>
     <line class="edge" x1="30" y1="12" x2="22" y2="42"/>
     <line class="edge" x1="30" y1="12" x2="38" y2="42"/>
@@ -76,7 +81,7 @@
   </g>
 
   <!-- Letter N -->
-  <g id="span-n" transform="translate(160, 0)">
+  <g id="span-n" transform="translate(145, 0)">
     <polygon class="triangle" points="12,12 30,25 48,68 30,55"/>
     <line class="edge" x1="12" y1="12" x2="12" y2="68"/>
     <line class="edge" x1="48" y1="12" x2="48" y2="68"/>
