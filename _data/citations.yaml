@@ -4,6 +4,28 @@
 
 # TODO: Find and remove all examples from the template!
 
+# NOTE: added 'Mathematics of epidemics on networks' book for the highlighted publication
+- id: doi:10.1007/978-3-319-50806-1
+  title: Mathematics of epidemics on networks
+  authors:
+    - István Z. Kiss
+    - Joel C. Miller
+    - Péter L. Simon
+  publisher: Springer
+  date: '2017-05-22'
+  type: book
+  image: images/Revised_Cover_2_compressed.png
+  buttons:
+    - type: publisher
+      text: View on Springer
+      link: http://www.springer.com/gb/book/9783319508047
+    - type: pdf
+      text: Table of Contents
+      link: http://scholar.harvard.edu/files/joelmiller/files/Tab_of_cont_Index_Refs.pdf
+  tags:
+    - epidemiology
+    - network theory
+    - mathematical modeling
 - id: doi:10.1007/s00285-025-02247-4
   title: Decoding how higher-order network interactions shape contagion dynamics
   authors:
