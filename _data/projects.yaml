@@ -1,64 +1,70 @@
 - title: Inference of structure and dynamics
   subtitle: 
   image: images/photo.jpg
-  link: https://github.com/
+  link: 
   description: We develop methods to uncover the hidden structure of social contact networks and the transmission dynamics of epidemics from observed data. This work seeks to reconstruct how individuals interact and how these interactions shape the spread of disease. 
-  repo: greenelab/lab-website-template
+  repo:
   tags:
     - resource
+    - publication
 
 - title: Higher-order contagion
   subtitle: 
   image: images/photo.jpg
-  link: https://github.com/
+  link: 
   description: Beyond simple pairwise connections, many real-world processes involve group interactions. We study how contagion unfolds in higher-order networks, such as hypergraphs and simplicial complexes, where the spread of diseases or ideas depends on collective behaviors within groups rather than just pair interactions. This approach reveals new mechanisms that shape how information and diseases propagate. 
-  repo: greenelab/lab-website-template
+  repo:
   tags:
     - resource
+    - publication    
 
 - title: Beyond Simple Contagion, Integrating Behaviour into Epidemic Models 
   subtitle: 
   image: images/photo.jpg
-  link: https://github.com/
+  link: 
   description: Epidemics are shaped not just by pathogens, but by human behaviour. We combine epidemiology with insights from psychology and social science to understand how risk perception, compliance, and behavioural change interact with disease dynamics. 
-  repo: greenelab/lab-website-template
+  repo:
   tags:
     - resource
     - publication
 
 - title: Foundational epidemic models
-  subtitle: a subtitle
+  subtitle:
   image: images/photo.jpg
-  link: https://github.com/
+  link: 
   description: Our group focuses on the mathematical foundations of epidemic modelling. We design and analyse models that capture the essential features of spreading processes, providing a basis for accurate prediction and a deeper understanding of how diseases propagate. 
-  repo: greenelab/lab-website-template
+  repo:
   tags:
     - software
+    - publication    
 
 - title: Sequential temporal networks
-  subtitle: a subtitle
+  subtitle:
   image: images/photo.jpg
-  link: https://github.com/
+  link: 
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  repo:
   tags:
     - software
+    - publication    
 
 - title: Quantitiave tools for applications in health
-  subtitle: a subtitle
+  subtitle: 
   image: images/photo.jpg
-  link: https://github.com/
+  link: 
   description: We study how interactions unfold over time, focusing on the order and timing of connections in dynamic networks. By analysing sequential patterns in systems such as shipping networks, we uncover both individual and collective temporal behaviors, revealing structures and dynamics that are invisible in static network analyses. This approach helps to understand complex, time-dependent processes across a wide range of systems. 
-  repo: greenelab/lab-website-template
+  repo:
   tags:
     - software
-
+    - publication    
 
 - title: Quantitiave tools for applications in health
-  subtitle: a subtitle
+  subtitle: 
   image: images/photo.jpg
-  link: https://github.com/
+  link: 
   description: We apply quantitative modelling tools to address health challenges, including infection control in care homes, patient care pathways, and survival analysis of diseases such as glioma. These projects aim to bridge theory and practice, using network science to improve real-world healthcare outcomes. 
-  repo: greenelab/lab-website-template
+  repo:
   tags:
     - software
+    - publication
+
