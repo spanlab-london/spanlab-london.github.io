@@ -1,43 +1,34 @@
-- title: Inference of structure and dynamics
-  subtitle: 
+- title: Cool Dataset
+  subtitle: a subtitle
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: We develop methods to uncover the hidden structure of social contact networks and the transmission dynamics of epidemics from observed data. This work seeks to reconstruct how individuals interact and how these interactions shape the spread of disease. 
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Higher-order contagion
-  subtitle: 
+- title: Cool Package
+  subtitle: a subtitle
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Beyond simple pairwise connections, many real-world processes involve group interactions. We study how contagion unfolds in higher-order networks, such as hypergraphs and simplicial complexes, where the spread of diseases or ideas depends on collective behaviors within groups rather than just pair interactions. This approach reveals new mechanisms that shape how information and diseases propagate. 
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Beyond Simple Contagion: Integrating Behaviour into Epidemic Models 
-  subtitle: 
+- title: Cool Tutorial
+  subtitle: a subtitle
   image: images/photo.jpg
   link: https://github.com/
-  description: Epidemics are shaped not just by pathogens, but by human behaviour. We combine epidemiology with insights from psychology and social science to understand how risk perception, compliance, and behavioural change interact with disease dynamics. 
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
     - resource
     - publication
 
-- title: Foundational epidemic models
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Our group focuses on the mathematical foundations of epidemic modelling. We design and analyse models that capture the essential features of spreading processes, providing a basis for accurate prediction and a deeper understanding of how diseases propagate. 
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Sequential temporal networks
+- title: Cool Web App
   subtitle: a subtitle
   image: images/photo.jpg
   link: https://github.com/
@@ -46,22 +37,11 @@
   tags:
     - software
 
-- title: Quantitiave tools for applications in health
+- title: Cool Web Server
   subtitle: a subtitle
   image: images/photo.jpg
   link: https://github.com/
-  description: We study how interactions unfold over time, focusing on the order and timing of connections in dynamic networks. By analysing sequential patterns in systems such as shipping networks, we uncover both individual and collective temporal behaviors, revealing structures and dynamics that are invisible in static network analyses. This approach helps to understand complex, time-dependent processes across a wide range of systems. 
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
     - software
-
-
-- title: Quantitiave tools for applications in health
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: We apply quantitative modelling tools to address health challenges, including infection control in care homes, patient care pathways, and survival analysis of diseases such as glioma. These projects aim to bridge theory and practice, using network science to improve real-world healthcare outcomes. 
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
