@@ -4,7 +4,7 @@ image: images/photo.jpg
 description: 
 role: phd
 links:
-  email: sarah.johnson@gmail.com
+  email: guzmanmoran.j@gnortheastern.edu
   twitter: sarahjohnson
 ---
 
