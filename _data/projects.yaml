@@ -1,6 +1,5 @@
 - title: Inference of structure and dynamics
   subtitle: 
-  group: featured
   image: images/photo.jpg
   link: https://github.com/
   description: We develop methods to uncover the hidden structure of social contact networks and the transmission dynamics of epidemics from observed data. This work seeks to reconstruct how individuals interact and how these interactions shape the spread of disease. 
@@ -10,7 +9,6 @@
 
 - title: Higher-order contagion
   subtitle: 
-  group: featured
   image: images/photo.jpg
   link: https://github.com/
   description: Beyond simple pairwise connections, many real-world processes involve group interactions. We study how contagion unfolds in higher-order networks, such as hypergraphs and simplicial complexes, where the spread of diseases or ideas depends on collective behaviors within groups rather than just pair interactions. This approach reveals new mechanisms that shape how information and diseases propagate. 
@@ -18,7 +16,7 @@
   tags:
     - resource
 
-- title: Beyond Simple Contagion, integrating Behaviour into Epidemic Models 
+- title: Beyond Simple Contagion, Integrating Behaviour into Epidemic Models 
   subtitle: 
   image: images/photo.jpg
   link: https://github.com/
