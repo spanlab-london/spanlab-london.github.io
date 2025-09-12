@@ -1,6 +1,6 @@
 - title: Inference of structure and dynamics
   subtitle: 
-  image: images/photo.jpg
+  image: images/inference.png
   link: 
   description: We develop methods to uncover the hidden structure of social contact networks and the transmission dynamics of epidemics from observed data. This work seeks to reconstruct how individuals interact and how these interactions shape the spread of disease. 
   repo:
@@ -10,7 +10,7 @@
 
 - title: Higher-order contagion
   subtitle: 
-  image: images/photo.jpg
+  image: images/Higherorder.png
   link: 
   description: Beyond simple pairwise connections, many real-world processes involve group interactions. We study how contagion unfolds in higher-order networks, such as hypergraphs and simplicial complexes, where the spread of diseases or ideas depends on collective behaviors within groups rather than just pair interactions. This approach reveals new mechanisms that shape how information and diseases propagate. 
   repo:
@@ -30,7 +30,7 @@
 
 - title: Foundational epidemic models
   subtitle:
-  image: images/photo.jpg
+  image: images/fundamental.png
   link: 
   description: Our group focuses on the mathematical foundations of epidemic modelling. We design and analyse models that capture the essential features of spreading processes, providing a basis for accurate prediction and a deeper understanding of how diseases propagate. 
   repo:
@@ -40,7 +40,7 @@
 
 - title: Sequential temporal networks
   subtitle: 
-  image: images/photo.jpg
+  image: images/temporal.png
   link: 
   description: We study how interactions unfold over time, focusing on the order and timing of connections in dynamic networks. By analysing sequential patterns in systems such as shipping networks, we uncover both individual and collective temporal behaviors, revealing structures and dynamics that are invisible in static network analyses. This approach helps to understand complex, time-dependent processes across a wide range of systems. 
   repo:
