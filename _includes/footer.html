@@ -16,16 +16,22 @@
   -->
 
   <div>
+    {% comment %}
     {% for link in site.links %}
       {% assign key = link[0] %}
       {% assign value = link[1] %}
       {% include button.html type=key text="" link=value style="bare" %}
     {% endfor %}
+    {% endcomment %}
   </div>
 
   <div>
     &copy; {{ site.time | date: "%Y" }}
     {{ site.title }}
+    &nbsp; 
+    <a href="https://github.com/test-lab-org">
+      TEST-Lab
+    </a>
     &nbsp; | &nbsp; Built with
     <a href="https://github.com/greenelab/lab-website-template">
       Lab Website Template
