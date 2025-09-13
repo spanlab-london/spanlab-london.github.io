@@ -1,0 +1,43 @@
+<div class="new-project-component">
+
+  <!-- image on the left -->
+  <div class="new-project-component-image">
+    {% if include.link %}
+      <a href="{{ include.link | relative_url }}">
+        <img src="{{ include.image | relative_url }}" alt="{{ include.title }}">
+      </a>
+    {% else %}
+      <img src="{{ include.image | relative_url }}" alt="{{ include.title }}">
+    {% endif %}
+  </div>
+
+  <!-- text content on the right -->
+  <div class="new-project-component-content">
+    <h3 class="title">{{ include.title }}</h3>
+
+    {% if include.subtitle %}
+      <p class="subtitle">{{ include.subtitle }}</p>
+    {% endif %}
+
+    {% if include.description %}
+      <p class="description">{{ include.description }}</p>
+    {% endif %}
+
+    {% if include.buttons %}
+      <div class="buttons">
+        {% for button in include.buttons %}
+          {% include button.html button=button %}
+        {% endfor %}
+      </div>
+    {% endif %}
+
+    {% if include.tags %}
+      <div class="tags">
+        {% for tag in include.tags %}
+          <span class="tag">{{ tag }}</span>
+        {% endfor %}
+      </div>
+    {% endif %}
+  </div>
+
+</div>

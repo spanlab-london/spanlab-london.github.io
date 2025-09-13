@@ -4,12 +4,12 @@ image: images/Kevin-Teo.jpg
 role: phd
 links:
   email: teo.ke@northeastern.edu
-  home-page:
-  orcid:
-  github:
+  # home-page:
+  # orcid:
+  # github:
   twitter: kevinteo99
-  google-scholar:
-  linkedin: 
+  # google-scholar:
+  # linkedin: 
 ---
 
 Kevin is a PhD student in the Network Science Institute at Northeastern University London, supervised by Prof. István Kiss. His research focuses on methodologies and analysis of temporal networks. He has recently worked in investigating temporal patterns in maritime trading networks using higher-order network models and vectorized time-series analysis. Previously, he completed his Master’s in Physics and Theoretical Physics at Imperial College London.
