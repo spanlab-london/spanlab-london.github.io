@@ -3,12 +3,12 @@ name: Federico Malizia
 image: images/Federico-Malizia.png
 role: alumni
 links:
-  email: TODO
-  home-page: TODO
-  orcid: TODO
-  github: TODO
-  twitter: TODO
-  google-scholar: TODO
+  email:
+  home-page:
+  orcid:
+  github:
+  twitter:
+  google-scholar:
   linkedin: federico-malizia-18b2a9188
 ---
 
