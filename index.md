@@ -1,4 +1,8 @@
 ---
+title: Home
+nav:
+  order: 0
+  tooltip: Return to the homepage
 ---
 
 # Welcome to SPAN Lab
