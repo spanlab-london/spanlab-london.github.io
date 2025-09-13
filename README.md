@@ -1,5 +1,20 @@
 # spanlab-london.github.io
-This repository contains the source code for the website of the **Systems, Processes and Networks (SPAN) Lab, London**: **[https://spanlab-london.github.io](https://spanlab-london.github.io/)**
+This repository contains the source code for the website of the **Systems, Processes and Networks (SPAN) Lab, London**.
+
+- The site is live at [spanlab-london.github.io](https://spanlab-london.github.io/)
+
+- Built using the [Lab Website Template by Greene Lab](https://github.com/greenelab/lab-website-template)
+
+### Added features:
+- Local build and deployment process using a custom `deploy.sh` script
+- New wide row-based layout for the Projects page
+- Refined the Team page with roles for the Lead, PhD Students, and Alumni
+- Replaced "Blog" section with "News" section
+- Explicit "Home" button to the main nav bar for clarity
+- Modified "Search for papers" link on member pages
+- Custom favicons
+- Custom square SVG logo for the SPAN Lab GitHub organization profile (could be animated)
+
 
 ## Build and deploy workflow
 This website uses a **local build** process. 
@@ -51,7 +66,6 @@ The live site [spanlab-london.github.io](https://spanlab-london.github.io/) is t
 
 
 PageSpeed Insights: [report](https://pagespeed.web.dev/analysis/https-spanlab-london-github-io/z7x58tfb5k?form_factor=desktop)
-
 
 
 
