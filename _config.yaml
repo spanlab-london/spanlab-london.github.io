@@ -1,6 +1,6 @@
 # adding urls for local build deploy from branch
 baseurl: ""
-url: "https://test-lab-org.github.io"
+url: "https://spanlab-london.github.io"
 
 # site properties and page defaults
 # NOTE: removed title: "SPAN Lab"
@@ -14,14 +14,14 @@ footer:
 proofer: false
 
 # site social media and other links
-# TODO: email, orcid, google-scholar, twitter:
+# TODO: email, orcid, google-scholar, twitter: 
+# Data from Istvan:
 links:
-  email: 
-  orcid: 
-  google-scholar: 
-  github: test-lab-org
-  twitter: 
-  youtube: 
+  email: istvan.kiss@nulondon.ac.uk
+  orcid: 0000-0003-1473-6644
+  google-scholar: 'Wf3AWDUAAAAJ'
+  github: spanlab-london 
+  twitter: istvanzkiss
 
 ### jekyll settings
 
