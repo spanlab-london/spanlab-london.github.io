@@ -31,7 +31,24 @@ To make changes and publish them to the live site:
 Make any desired edits to the source files: 
 - updating a member bio in `/_members`
 - adding a news post in `/_posts`, 
-- etc. 
+- adding a publication,
+- etc.
+
+#### Adding pictures for publications
+You can add pictures for publications, by:
+* first add the image (in png, jpg, or svg, keep it small) to [images](images/) 
+
+* and then add the path to the yaml file in: [_data/citations.yaml](_data/citations.yaml)
+
+##### Example 
+For 'Mathematics of epidemics on networks' book publication with id `doi:10.1007/978-3-319-50806-1`:
+* image: [images/Revised_Cover_2_compressed.png](images/Revised_Cover_2_compressed.png)
+* and item in the yaml file:
+```yaml
+- id: doi:10.1007/978-3-319-50806-1
+  # path:
+  image: images/Revised_Cover_2_compressed.png```
+```
 
 Then, commit your changes and push them to the `main` branch.
 
