@@ -36,16 +36,15 @@ Make any desired edits to the source files:
 
 #### Adding pictures for publications
 You can add pictures for publications, by:
-* first add the image (in png, jpg, or svg, keep it small) to [images](https://github.com/spanlab-london/spanlab-london.github.io/tree/22d8ff0d5ac091e5a55e8e224868cd427ee580b8/images) 
+* first add the image (in png, jpg, or svg, keep it small) to [images](images/) 
 
-* and then add the path to the yaml file in: [_data/citations.yaml](https://github.com/spanlab-london/spanlab-london.github.io/blob/22d8ff0d5ac091e5a55e8e224868cd427ee580b8/_data/citations.yaml)
+* and then add the path to the yaml file in: [_data/citations.yaml](_data/citations.yaml)
 
 ##### Example 
-You can see an example for the first item:
-* image: [images/Revised_Cover_2_compressed.png](https://github.com/spanlab-london/spanlab-london.github.io/blob/22d8ff0d5ac091e5a55e8e224868cd427ee580b8/images/Revised_Cover_2_compressed.png)
-* item in the yaml file in:
+For 'Mathematics of epidemics on networks' book publication with id `doi:10.1007/978-3-319-50806-1`:
+* image: [images/Revised_Cover_2_compressed.png](images/Revised_Cover_2_compressed.png)
+* and item in the yaml file:
 ```yaml
-# NOTE: added 'Mathematics of epidemics on networks' book for the highlighted publication
 - id: doi:10.1007/978-3-319-50806-1
   # path:
   image: images/Revised_Cover_2_compressed.png```
