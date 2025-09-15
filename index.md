@@ -11,7 +11,7 @@ nav:
 
 <!-- The SPAN Lab explores how things spread through complex networks—from viruses to behaviours to technological systems. Working at the intersection of graph theory, stochastic processes, dynamical systems, and statistical inference, we uncover the intricate interplay between network structure and dynamics. We blend mathematical rigor with realism and apply these insights across scales—from fundamental results to applied research ranging from social to technological systems. -->
 
-The SPAN Lab investigates how contagion—biological, social, or technological—spreads through COMPLEX networks. Using tools from graph theory, stochastic processes, dynamical systems, and statistical inference, we reveal how structure drives dynamics. Our research combines mathematical depth with practical impact, advancing both fundamental understanding and applied solutions across domains from public health to technology.
+The SPAN Lab investigates how contagion—biological, social, or technological—spreads through complex networks. Using tools from graph theory, stochastic processes, dynamical systems, and statistical inference, we reveal how structure drives dynamics. Our research combines mathematical depth with practical impact, advancing both fundamental understanding and applied solutions across domains from public health to technology.
 
 <!-- {%
   include button.html
