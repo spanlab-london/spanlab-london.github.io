@@ -48,6 +48,7 @@
   - "P\xE9ter L. Simon"
   publisher: Journal of Mathematical Biology
   date: '2025-08-19'
+  image: images/Two_pop_illustration_for_latex_new_final.png
   link: https://doi.org/g93cwd
   orcid: 0000-0003-1473-6644
   plugin: orcid.py
