@@ -5,6 +5,27 @@
 # TODO: Find and remove all examples from the template!
 
 # NOTE: added 'Mathematics of epidemics on networks' book for the highlighted publication
+# NOTE: added 'Disentangling the role of heterogeneity...' and moved `image: images/Revised_Cover_2_compressed.png` under this item
+- id: arxiv:2501.17800
+  title: "Disentangling the role of heterogeneity and hyperedge overlap in explosive contagion on higher-order networks"
+  authors:
+    - Federico Malizia
+    - Andrés Guzmán
+    - Iacopo Iacopini
+    - István Z. Kiss
+  publisher: arXiv
+  date: '2025-05-16'
+  link: https://arxiv.org/abs/2501.17800
+  type: preprint
+  buttons:
+    - type: pdf
+      text: View PDF
+      link: https://arxiv.org/pdf/2501.17800.pdf
+  tags:
+    - higher-order networks
+    - contagion dynamics
+    - physics.soc-ph
+  image: images/Disentangling_PRL_Candidate.png
 - id: doi:10.1007/978-3-319-50806-1
   title: Mathematics of epidemics on networks
   authors:
@@ -14,7 +35,6 @@
   publisher: Springer
   date: '2017-05-22'
   type: book
-  image: images/Revised_Cover_2_compressed.png
   buttons:
     - type: publisher
       text: View on Springer
@@ -38,7 +58,6 @@
   orcid: 0000-0003-1473-6644
   plugin: orcid.py
   file: orcid.yaml
-  image: images/Disentangling_PRL_Candidate.png
 - id: doi:10.1093/comnet/cnaf018
   title: Inferring contact network characteristics from epidemic data via compact
     mean-field models
