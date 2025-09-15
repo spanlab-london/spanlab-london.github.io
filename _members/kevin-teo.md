@@ -5,8 +5,8 @@ role: phd
 links:
   email: teo.ke@northeastern.edu
   # home-page:
-  # orcid:
-  # github:
+  orcid: 0009-0008-3985-7569
+  github: wzt1799
   twitter: kevinteo99
   # google-scholar:
   # linkedin: 
