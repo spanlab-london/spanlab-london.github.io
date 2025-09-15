@@ -18,11 +18,12 @@
     - resource
     - publication    
 
-- title: Beyond Simple Contagion, Integrating Behaviour into Epidemic Models 
+- title: Integrating behaviour into epidemic models 
   subtitle: 
-  image: images/photo.jpg
+  image: images/behav-2.svg
   link: 
-  description: Epidemics are shaped not just by pathogens, but by human behaviour. We combine epidemiology with insights from psychology and social science to understand how risk perception, compliance, and behavioural change interact with disease dynamics. 
+  description: 
+    Ignoring how people react during an outbreak is a primary reason why epidemic forecasts often fail. This research area focuses on fixing that flaw. We build and rigorously test a new class of models that captures the complex feedback loop between risk perception, behavior, and transmission dynamics. By validating these models against real-world data, we demonstrate their superior accuracy and reveal how traditional models can systematically misjudge a pathogen's infectiousness. The goal is to create more resilient and realistic forecasting tools to better prepare for and manage future infectious disease threats.
   repo:
   tags:
     - resource
@@ -48,11 +49,12 @@
     - software
     - publication    
 
-- title: Quantitiave tools for applications in health
+- title: Stochastic and statistical modelling in healthcare
   subtitle: 
-  image: images/photo.jpg
+  image: images/care-homes-1.png
   link: 
-  description: We apply quantitative modelling tools to address health challenges, including infection control in care homes, patient care pathways, and survival analysis of diseases such as glioma. These projects aim to bridge theory and practice, using network science to improve real-world healthcare outcomes. 
+  description: 
+    In this area, we develop and apply sophisticated computational models to solve pressing problems in public and clinical health. By integrating real-world data from large-scale epidemic outbreaks to individual patient records, with rigorous analytical techniques, we aim to uncover the mechanisms driving disease dynamics. Our goal is to provide quantitative evidence that can inform public health policy and support clinical decision-making.
   repo:
   tags:
     - software

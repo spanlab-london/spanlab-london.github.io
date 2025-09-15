@@ -3,8 +3,8 @@
 
 // colors
 [data-dark="false"] {
-  --primary: #0795d9;
-  --secondary: #7dd3fc;
+  --primary: #3B7F82; // #0795d9; // NOTE: changed to match logo, per Nicole's feedback 
+  --secondary: #2f9fa5; // NOTE: also changed to match
   --text: #000000;
   --background: #ffffff;
   --background-alt: #fafafa;
@@ -16,8 +16,8 @@
 // removing the background image from `_config.yaml`
 // causes fall back to `data-dark="true"`:
 [data-dark="true"] {
-  --primary: #0795d9;
-  --secondary: #075985;
+  --primary: #4fd1c5; // #0795d9; // NOTE: changed to match logo, per Nicole's feedback 
+  --secondary: #4a9e95; // NOTE: also changed to match
   --text: #ffffff;
   // NOTE: default background is too dark:
   // --background: #181818;
@@ -52,7 +52,7 @@
   --bold: 600;
 
   // text line spacing
-  --spacing: 2;
+  --spacing: 1.75;   // NOTE: decreased from `2`, per Nicole's feedback
   --compact: 1.5;
 
   // effects
@@ -60,3 +60,14 @@
   --shadow: 0 0 10px 0 var(--overlay);
   --transition: 0.2s ease;
 }
+
+// // custom style for Projects subpage ..
+// main {
+//   margin: 0 auto;
+//   max-width: 800px;
+//   padding: 3rem 1.5rem;
+// }
+
+// main.wide {
+//   max-width: 1200px;
+// }

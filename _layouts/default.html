@@ -3,7 +3,7 @@
   {% include head.html %}
   <body>
     {% include header.html %}
-    <main>
+    <main {% if page.wide %}class="wide"{% endif %}>
       {% include content.html content=content %}
     </main>
     {% include footer.html %}

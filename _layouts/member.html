@@ -32,11 +32,17 @@ layout: default
   publications/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
 {%- endcapture %}
 
-<p class="center">
-  <a href="{{ search | relative_url | uri_escape }}">
-    Search for {{ page.name | default: page.title }}'s papers on the Publications page
-  </a>
-</p>
+<!-- wrapping -->
+{% if page.search_publications != false %}
+  <p class="center">
+    <a href="{{ search | relative_url | uri_escape }}">
+      Search for {{ page.name | default: page.title }}'s papers on the Publications page
+    </a>
+  </p>
+  </div>
+{% endif %}
+
+
 
 {% capture search -%}
   blog/?search={{ page.name }}

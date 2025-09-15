@@ -1,9 +1,13 @@
 ---
+title: Home
+nav:
+  order: 0
+  tooltip: Return to the homepage
 ---
 
-# Welcome to SPAN Lab - TEST
+# Welcome to SPAN Lab
 
-<!-- The SPAN Lab investigates how contagion processes unfold on complex networks, from the spread of infectious diseases to the diffusion of behaviours and ideas. A core focus is epidemic modelling that incorporates human behaviour, drawing on health psychology to capture risk perception, compliance, and decision-making, with particular attention to vulnerable settings such as care homes. In parallel, the Lab advances the mathematics of contagion beyond pairwise interactions—using higher-order networks to capture complex social and structural effects—and apply these frameworks to critical infrastructure networks, such as global shipping and power systems. By bridging rigorous mathematical theory with behavioural and applied insights, the Lab seeks to uncover universal principles of contagion while informing interventions that enhance public health and societal resilience. -->
+<!-- The SPAN Lab investigates how contagion processes unfold on COMPLEX networks, from the spread of infectious diseases to the diffusion of behaviours and ideas. A core focus is epidemic modelling that incorporates human behaviour, drawing on health psychology to capture risk perception, compliance, and decision-making, with particular attention to vulnerable settings such as care homes. In parallel, the Lab advances the mathematics of contagion beyond pairwise interactions—using higher-order networks to capture complex social and structural effects—and apply these frameworks to critical infrastructure networks, such as global shipping and power systems. By bridging rigorous mathematical theory with behavioural and applied insights, the Lab seeks to uncover universal principles of contagion while informing interventions that enhance public health and societal resilience. -->
 
 <!-- The SPAN Lab explores how things spread through complex networks—from viruses to behaviours to technological systems. Working at the intersection of graph theory, stochastic processes, dynamical systems, and statistical inference, we uncover the intricate interplay between network structure and dynamics. We blend mathematical rigor with realism and apply these insights across scales—from fundamental results to applied research ranging from social to technological systems. -->
 
@@ -22,6 +26,8 @@ The SPAN Lab investigates how contagion—biological, social, or technological�
 %} -->
 
 {% include section.html %}
+
+<!-- Commenting out:
 
 ## Highlights
 
@@ -94,4 +100,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   link="team"
   title="Our Team"
   text=text
-%}
+%} 
+
+-->

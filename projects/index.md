@@ -1,5 +1,6 @@
 ---
 title: Projects
+wide: true
 nav:
   order: 2
   tooltip: About our projects
@@ -7,18 +8,23 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-{% include tags.html tags="publication, resource, website" %}
-
 {% include search-info.html %}
 
 {% include section.html %}
 
-## Featured
-
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
-
-{% include section.html %}
-
-## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+## Our Research Areas
+<div class="list" data-component="new-project-component">
+{% for project in site.data.projects %}
+  {% unless project.group %}
+    {% include new-project-component.html
+      title=project.title
+      subtitle=project.subtitle
+      description=project.description
+      image=project.image
+      link=project.link
+      tags=project.tags
+      buttons=project.buttons
+    %}
+  {% endunless %}
+{% endfor %}
+</div>
