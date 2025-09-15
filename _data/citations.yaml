@@ -110,6 +110,7 @@
   orcid: 0000-0003-1473-6644
   plugin: orcid.py
   file: orcid.yaml
+  image: images/Towards_inferring.png
 - id: doi:10.1093/comnet/cnad044
   title: Insights from exact social contagion dynamics on networks with higher-order
     structures
@@ -162,6 +163,7 @@
   orcid: 0000-0003-1473-6644
   plugin: orcid.py
   file: orcid.yaml
+  image: images/Ethical_dilemma.png
 - id: doi:10.1098/rsif.2022.0124
   title: Dynamic survival analysis for non-Markovian epidemic models
   authors:
