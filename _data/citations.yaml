@@ -1,5 +1,6 @@
 # NOTE: added 'Mathematics of epidemics on networks' book for the highlighted publication
 # NOTE: added 'Disentangling the role of heterogeneity...' and moved `image: images/Revised_Cover_2_compressed.png` under this item
+# NOTE: removed duplicated entry for 'Ethical dilemma...' paper, kept https://royalsocietypublishing.org/doi/10.1098/rsif.2023.0612
 - id: arxiv:2501.17800
   title: "Disentangling the role of heterogeneity and hyperedge overlap in explosive contagion on higher-order networks"
   authors:
@@ -98,6 +99,7 @@
   orcid: 0000-0003-1473-6644
   plugin: orcid.py
   file: orcid.yaml
+  image: images/Ethical_dilemma.png    
 - id: doi:10.1007/s11538-023-01235-3
   title: Towards Inferring Network Properties from Epidemic Data
   authors:
@@ -125,6 +127,7 @@
   orcid: 0000-0003-1473-6644
   plugin: orcid.py
   file: orcid.yaml
+  image: images/Insights_from_exact.png
 - id: doi:10.1007/s00285-023-01967-9
   title: Necessary and sufficient conditions for exact closures of epidemic equations
     on configuration model networks
@@ -149,21 +152,6 @@
   orcid: 0000-0003-1473-6644
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.02.18.23286135
-  title: Ethical dilemma arises from optimising interventions for epidemics in heterogeneous
-    populations
-  authors:
-  - Pratyush K. Kollepara
-  - Rebecca H. Chisholm
-  - "Istv\xE1n Z. Kiss"
-  - Joel C. Miller
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-02-23'
-  link: https://doi.org/g93cwn
-  orcid: 0000-0003-1473-6644
-  plugin: orcid.py
-  file: orcid.yaml
-  image: images/Ethical_dilemma.png
 - id: doi:10.1098/rsif.2022.0124
   title: Dynamic survival analysis for non-Markovian epidemic models
   authors:
