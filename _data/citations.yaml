@@ -81,11 +81,27 @@
   - Andrew Hone
   - "Istv\xE1n Zolt\xE1n Kiss"
   publisher: Journal of Complex Networks
+  image: images/higher_order_fig.png
   date: '2024-12-29'
   link: https://doi.org/g93cwg
   orcid: 0000-0003-1473-6644
   plugin: orcid.py
   file: orcid.yaml
+- id: arXiv:2502.19957
+  title: 'Unveiling individual and collective temporal patterns in the tanker shipping network'
+  authors:
+  - Kevin Teo
+  - Naomi Arnold
+  - Andrew Hone
+  - Michael Coulon
+  - Martin Ireland
+  - Mauricio Santillana
+  - "Istv\xE1n Zolt\xE1n Kiss"
+  publisher: arXiv
+  date: '2025-02-27'
+  link: https://arxiv.org/abs/2502.19957
+  type: preprint
+  image: images/shipping_dmd.png
 - id: doi:10.1098/rsif.2023.0612
   title: Ethical dilemma arises from optimizing interventions for epidemics in heterogeneous
     populations
