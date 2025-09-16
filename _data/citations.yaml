@@ -152,6 +152,7 @@
   - "Istv\xE1n Z. Kiss"
   - Eben Kenah
   - "Grzegorz A. Rempa\u0142a"
+  image: images/paper_necessary_sufficient.png
   publisher: Journal of Mathematical Biology
   date: '2023-08-01'
   link: https://doi.org/g93cwk
@@ -166,6 +167,7 @@
   publisher: Bulletin of Mathematical Biology
   date: '2023-01-27'
   link: https://doi.org/g93cwm
+  image: images/paper_parameter_identifiability.png
   orcid: 0000-0003-1473-6644
   plugin: orcid.py
   file: orcid.yaml
@@ -179,6 +181,7 @@
   - Max Jensen
   - "Grzegorz A. Rempa\u0142a"
   publisher: Journal of The Royal Society Interface
+  image: images/paper_non_markov_dsa.png
   date: '2022-06-01'
   link: https://doi.org/g93cwp
   orcid: 0000-0003-1473-6644
@@ -542,6 +545,7 @@
   date: '2022-05-27'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84944753175&partnerID=MN8TOARS
   orcid: 0000-0003-1473-6644
+  image: images/paper_comment_binomial_moment.png
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1137/130947039
@@ -951,6 +955,7 @@
   date: '2022-05-27'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84902007630&partnerID=MN8TOARS
   orcid: 0000-0003-1473-6644
+  image: images/paper_can_an_epidemic.png
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1142/9781848164345_0005
