@@ -204,11 +204,37 @@
   - Julien Forder
   - Jackie A. Cassell
   publisher: Epidemiology and Infection
+  image: images/paper_risk_covid19_domiciliary_care.png
   date: '2021-12-17'
   link: https://doi.org/g93cwq
   orcid: 0000-0003-1473-6644
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.mbs.2022.108854
+  title: 'Probabilistic predictions of SIS epidemics on networks based on population-level observations'
+  authors:
+  - Tanja Zerenner
+  - Francesco Di Lauro
+  - Masoumeh Dashti
+  - Luc Berthouze
+  - Istvan Z Kiss
+  journal: Mathematical Biosciences
+  image: images/paper_probabilistic_population.png
+  date: '2022-08-01'
+  publisher: Elsevier
+  link: https://www.sciencedirect.com/science/article/pii/S002555642200058X
+- id: doi:10.1007/s10998-021-00440-8
+  title: 'The impact of spatial and social structure on an SIR epidemic on a weighted multilayer network'
+  authors:
+  - Ágnes Backhausz
+  - István Z Kiss
+  - Péter L Simon
+  journal: Periodica Mathematica Hungarica
+  image: images/paper_impact_spatial.png
+  pages: '343--363'
+  date: '2022-01-06'
+  publisher: Springer
+  link: https://link.springer.com/article/10.1007/s10998-021-00440-8
 - id: doi:10.1017/S0950268822000905
   title: 'Network analysis of England''s single parent household COVID-19 control
     policy impact: a proof-of-concept study'
@@ -218,6 +244,7 @@
   - J. A. Cassell
   - I. Z. Kiss
   publisher: Epidemiology and Infection
+  image: images/paper_network_england.png
   date: '2022-01-01'
   link: https://doi.org/g93cwr
   orcid: 0000-0003-1473-6644
@@ -235,6 +262,7 @@
   publisher: Bulletin of Mathematical Biology
   date: '2021-10-15'
   link: https://doi.org/g93cws
+  image: images/paper_mixing_control.png
   orcid: 0000-0003-1473-6644
   plugin: orcid.py
   file: orcid.yaml
@@ -245,11 +273,31 @@
   - "Istv\xE1n Z. Kiss"
   - Joel C. Miller
   publisher: PLOS Computational Biology
+  image: images/paper_optimal_timing_one_shot.png
   date: '2021-03-18'
   link: https://doi.org/g93cwt
   orcid: 0000-0003-1473-6644
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1088/2632-072X/abcbea
+  title: 'Beyond COVID-19: network science and sustainable exit strategies'
+  authors:
+  - J Bell
+  - G Bianconi
+  - D Butler
+  - J Crowcroft
+  - PC Davies
+  - C Hicks
+  - H Kim
+  - IZ Kiss
+  - F Di Lauro
+  - C Maple
+  - A Paul
+  journal: Journal of Physics Complexity
+  image: images/paper_beyond_covid19.png
+  date: '2021-02-02'
+  publisher: IOP Publishing
+  link: https://iopscience.iop.org/article/10.1088/2632-072X/abcbea
 - id: doi:10.1101/2020.03.02.20030007
   title: The timing of one-shot interventions for epidemic control
   authors:
