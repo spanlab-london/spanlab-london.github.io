@@ -40,6 +40,11 @@ nav:
 - <a href='https://www.mighte.org/'>Mauricio Santillana</a>, <a href="http://networkscienceinstitute.org">Network Science Institute</a>, USA
 - <a href='https://researchportal.ukhsa.gov.uk/en/persons/jacqueline-cassell'>Prof Jackie Cassell</a>, UK Health Security Agency, UK
 - Dr Catherine Carey, UK Health Security Agency, UK
+- <a href='https://www.kent.ac.uk/mathematics-statistics-actuarial-science/people/407/hone-andy'>Prof Andy Hone</a>, <a href='https://www.kent.ac.uk/'>University of Kent</a>, UK
+- <a href='https://nslab.korea.ac.kr/'>Dr Boseung Choi</a>, <a href='https://www.korea.ac.kr/'>Korea University</a>, Republic of Korea
+- <a href='https://www.kent.ac.uk/mathematics-statistics-actuarial-science/people/417/cole-diana'>Dr Diana Cole</a>, <a href='https://www.kent.ac.uk/'>University of Kent</a>, UK
+- <a href='https://neyman.mbi.ohio-state.edu/'>Prof Gregory A. Remapala</a>, <a href='https://www.osu.edu/'>The Ohio State University</a>, USA
+- <a href='https://www.wasiur.xyz/'>Dr Wasiur Rahman Khuda Bukhsh</a>, <a href='https://www.nottingham.ac.uk/'>University of Nottingham</a>, UK
 
 {% include section.html %}
 
