@@ -1,7 +1,7 @@
 #!/bin/bash
 
-input_file="Revised_Cover_2.png"
-output_file="Revised_Cover_2_compressed.png"
+input_file="fundamental.png"
+output_file="fundamental_compressed.png"
 target_size=102400  # 100 KB in bytes
 quality=80  # starting quality
 

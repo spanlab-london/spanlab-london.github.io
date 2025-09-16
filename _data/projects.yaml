@@ -31,7 +31,7 @@
 
 - title: Foundational epidemic models
   subtitle:
-  image: images/fundamental.png
+  image: images/fundamental_compressed.png
   link: 
   description: Our group focuses on the mathematical foundations of epidemic modelling. We design and analyse models that capture the essential features of spreading processes, providing a basis for accurate prediction and a deeper understanding of how diseases propagate. 
   repo:
