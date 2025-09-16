@@ -39,11 +39,11 @@
     - software
     - publication    
 
-- title: Sequential temporal networks
+- title: Dynamics of temporal networks
   subtitle: 
   image: images/temporal.png
   link: 
-  description: We study how interactions unfold over time, focusing on the order and timing of connections in dynamic networks. By analysing sequential patterns in systems such as shipping networks, we uncover both individual and collective temporal behaviors, revealing structures and dynamics that are invisible in static network analyses. This approach helps to understand complex, time-dependent processes across a wide range of systems. 
+  description: While static networks effectively capture structural relationships, they ignore the temporal dimension where real-world interactions unfold and evolve. Our research investigates the dynamical patterns exhibited by temporal networks, from individual agent behaviors moving through the network to system-wide collective evolution patterns. By explicitly leveraging the temporal dimension, we aim to gain deeper insight into the mechanisms governing how temporal networks evolve and reveal fundamental dynamics that are invisible in static network representations.
   repo:
   tags:
     - software
