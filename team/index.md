@@ -24,7 +24,7 @@ nav:
 
 ## Affiliated Members
 
-- João Brazia, <a href="http://networkscienceinstitute.org">Network Science Institute</a>, Northeastern University London
+- João Brázia, <a href="http://networkscienceinstitute.org">Network Science Institute</a>, Northeastern University London
 - <a href='https://andreiasofiateixeira.com/'>Sofia Teixeira</a>, <a href="http://networkscienceinstitute.org">Network Science Institute</a>, Northeastern University London
 - <a href='https://www.turing.ac.uk/people/turing-fellows/alexandros-koliousis'>Prof Alexandros Koliousis</a>, <a href="http://networkscienceinstitute.org">Network Science Institute</a>, Northeastern University London
 - <a href='https://www.ucl.ac.uk/social-historical-sciences/case-studies/2022/sep/amil-mohanan-phd'>Dr Amil Mohanan</a>, <a href="http://networkscienceinstitute.org">Network Science Institute</a>, Northeastern University London
