@@ -38,6 +38,7 @@ nav:
 - <a href='https://simonp.web.elte.hu/'>Péter L. Simon</a>, <a href='https://www.elte.hu/'>Eötvös Loránd University</a>, Hungary
 - <a href='https://scholars.latrobe.edu.au/jcmiller/'>Joel C. Miller</a>, <a href='https://www.latrobe.edu.au/'>La Trobe University</a>, Australia
 - <a href='https://www.mighte.org/'>Mauricio Santillana</a>, <a href="http://networkscienceinstitute.org">Network Science Institute</a>, USA
+- <a href='https://www.networkscienceinstitute.org/people/binod-pant'>Binod Pant</a>, <a href="http://networkscienceinstitute.org">Network Science Institute</a>, USA
 - <a href='https://researchportal.ukhsa.gov.uk/en/persons/jacqueline-cassell'>Jackie Cassell</a>, UK Health Security Agency, UK
 - Catherine Carey, UK Health Security Agency, UK
 - <a href='https://www.kent.ac.uk/mathematics-statistics-actuarial-science/people/407/hone-andy'>Andy Hone</a>, <a href='https://www.kent.ac.uk/'>University of Kent</a>, UK
