@@ -1,5 +1,6 @@
 # NOTE: added 'Mathematics of epidemics on networks' book for the highlighted publication
 # NOTE: added 'Disentangling the role of heterogeneity...' and moved `image: images/Revised_Cover_2_compressed.png` under this item
+# NOTE: removed duplicated entry for 'Ethical dilemma...' paper, kept https://royalsocietypublishing.org/doi/10.1098/rsif.2023.0612
 - id: arxiv:2501.17800
   title: "Disentangling the role of heterogeneity and hyperedge overlap in explosive contagion on higher-order networks"
   authors:
@@ -29,6 +30,7 @@
   publisher: Springer
   date: '2017-05-22'
   type: book
+  image: images/Revised_Cover_2_compressed.png
   buttons:
     - type: publisher
       text: View on Springer
@@ -53,6 +55,7 @@
   orcid: 0000-0003-1473-6644
   plugin: orcid.py
   file: orcid.yaml
+  image: images/Two_pop_illustration_for_latex_new_final.png
 - id: doi:10.1093/comnet/cnaf018
   title: Inferring contact network characteristics from epidemic data via compact
     mean-field models
@@ -64,6 +67,7 @@
   - Diana Cole
   - "Istv\xE1n Z Kiss"
   publisher: Journal of Complex Networks
+  image: images/infer_paper_compressed.png
   date: '2025-06-26'
   link: https://doi.org/g93cwf
   orcid: 0000-0003-1473-6644
@@ -78,11 +82,27 @@
   - Andrew Hone
   - "Istv\xE1n Zolt\xE1n Kiss"
   publisher: Journal of Complex Networks
+  image: images/higher_order_fig.png
   date: '2024-12-29'
   link: https://doi.org/g93cwg
   orcid: 0000-0003-1473-6644
   plugin: orcid.py
   file: orcid.yaml
+- id: arXiv:2502.19957
+  title: 'Unveiling individual and collective temporal patterns in the tanker shipping network'
+  authors:
+  - Kevin Teo
+  - Naomi Arnold
+  - Andrew Hone
+  - Michael Coulon
+  - Martin Ireland
+  - Mauricio Santillana
+  - "Istv\xE1n Zolt\xE1n Kiss"
+  publisher: arXiv
+  date: '2025-02-27'
+  link: https://arxiv.org/abs/2502.19957
+  type: preprint
+  image: images/shipping_dmd.png
 - id: doi:10.1098/rsif.2023.0612
   title: Ethical dilemma arises from optimizing interventions for epidemics in heterogeneous
     populations
@@ -97,6 +117,7 @@
   orcid: 0000-0003-1473-6644
   plugin: orcid.py
   file: orcid.yaml
+  image: images/Ethical_dilemma.png    
 - id: doi:10.1007/s11538-023-01235-3
   title: Towards Inferring Network Properties from Epidemic Data
   authors:
@@ -109,6 +130,7 @@
   orcid: 0000-0003-1473-6644
   plugin: orcid.py
   file: orcid.yaml
+  image: images/Towards_inferring.png
 - id: doi:10.1093/comnet/cnad044
   title: Insights from exact social contagion dynamics on networks with higher-order
     structures
@@ -123,6 +145,7 @@
   orcid: 0000-0003-1473-6644
   plugin: orcid.py
   file: orcid.yaml
+  image: images/Insights_from_exact.png
 - id: doi:10.1007/s00285-023-01967-9
   title: Necessary and sufficient conditions for exact closures of epidemic equations
     on configuration model networks
@@ -130,6 +153,7 @@
   - "Istv\xE1n Z. Kiss"
   - Eben Kenah
   - "Grzegorz A. Rempa\u0142a"
+  image: images/paper_necessary_sufficient.png
   publisher: Journal of Mathematical Biology
   date: '2023-08-01'
   link: https://doi.org/g93cwk
@@ -144,20 +168,7 @@
   publisher: Bulletin of Mathematical Biology
   date: '2023-01-27'
   link: https://doi.org/g93cwm
-  orcid: 0000-0003-1473-6644
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.02.18.23286135
-  title: Ethical dilemma arises from optimising interventions for epidemics in heterogeneous
-    populations
-  authors:
-  - Pratyush K. Kollepara
-  - Rebecca H. Chisholm
-  - "Istv\xE1n Z. Kiss"
-  - Joel C. Miller
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-02-23'
-  link: https://doi.org/g93cwn
+  image: images/paper_parameter_identifiability.png
   orcid: 0000-0003-1473-6644
   plugin: orcid.py
   file: orcid.yaml
@@ -171,6 +182,7 @@
   - Max Jensen
   - "Grzegorz A. Rempa\u0142a"
   publisher: Journal of The Royal Society Interface
+  image: images/paper_non_markov_dsa.png
   date: '2022-06-01'
   link: https://doi.org/g93cwp
   orcid: 0000-0003-1473-6644
@@ -193,11 +205,37 @@
   - Julien Forder
   - Jackie A. Cassell
   publisher: Epidemiology and Infection
+  image: images/paper_risk_covid19_domiciliary_care.png
   date: '2021-12-17'
   link: https://doi.org/g93cwq
   orcid: 0000-0003-1473-6644
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.mbs.2022.108854
+  title: 'Probabilistic predictions of SIS epidemics on networks based on population-level observations'
+  authors:
+  - Tanja Zerenner
+  - Francesco Di Lauro
+  - Masoumeh Dashti
+  - Luc Berthouze
+  - Istvan Z Kiss
+  journal: Mathematical Biosciences
+  image: images/paper_probabilistic_population.png
+  date: '2022-08-01'
+  publisher: Elsevier
+  link: https://www.sciencedirect.com/science/article/pii/S002555642200058X
+- id: doi:10.1007/s10998-021-00440-8
+  title: 'The impact of spatial and social structure on an SIR epidemic on a weighted multilayer network'
+  authors:
+  - Ágnes Backhausz
+  - István Z Kiss
+  - Péter L Simon
+  journal: Periodica Mathematica Hungarica
+  image: images/paper_impact_spatial.png
+  pages: '343--363'
+  date: '2022-01-06'
+  publisher: Springer
+  link: https://link.springer.com/article/10.1007/s10998-021-00440-8
 - id: doi:10.1017/S0950268822000905
   title: 'Network analysis of England''s single parent household COVID-19 control
     policy impact: a proof-of-concept study'
@@ -207,6 +245,7 @@
   - J. A. Cassell
   - I. Z. Kiss
   publisher: Epidemiology and Infection
+  image: images/paper_network_england.png
   date: '2022-01-01'
   link: https://doi.org/g93cwr
   orcid: 0000-0003-1473-6644
@@ -224,6 +263,7 @@
   publisher: Bulletin of Mathematical Biology
   date: '2021-10-15'
   link: https://doi.org/g93cws
+  image: images/paper_mixing_control.png
   orcid: 0000-0003-1473-6644
   plugin: orcid.py
   file: orcid.yaml
@@ -234,11 +274,31 @@
   - "Istv\xE1n Z. Kiss"
   - Joel C. Miller
   publisher: PLOS Computational Biology
+  image: images/paper_optimal_timing_one_shot.png
   date: '2021-03-18'
   link: https://doi.org/g93cwt
   orcid: 0000-0003-1473-6644
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1088/2632-072X/abcbea
+  title: 'Beyond COVID-19: network science and sustainable exit strategies'
+  authors:
+  - J Bell
+  - G Bianconi
+  - D Butler
+  - J Crowcroft
+  - PC Davies
+  - C Hicks
+  - H Kim
+  - IZ Kiss
+  - F Di Lauro
+  - C Maple
+  - A Paul
+  journal: Journal of Physics Complexity
+  image: images/paper_beyond_covid19.png
+  date: '2021-02-02'
+  publisher: IOP Publishing
+  link: https://iopscience.iop.org/article/10.1088/2632-072X/abcbea
 - id: doi:10.1101/2020.03.02.20030007
   title: The timing of one-shot interventions for epidemic control
   authors:
@@ -534,6 +594,7 @@
   date: '2022-05-27'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84944753175&partnerID=MN8TOARS
   orcid: 0000-0003-1473-6644
+  image: images/paper_comment_binomial_moment.png
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1137/130947039
@@ -943,6 +1004,7 @@
   date: '2022-05-27'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84902007630&partnerID=MN8TOARS
   orcid: 0000-0003-1473-6644
+  image: images/paper_can_an_epidemic.png
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1142/9781848164345_0005

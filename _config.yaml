@@ -9,8 +9,8 @@ url: "https://spanlab-london.github.io"
 title:
 subtitle: Systems, Processes and Networks Lab
 description:
-header:
-footer:
+header: images/network-simplicial-complex.jpg
+footer: images/network-simplicial-complex.jpg
 proofer: false
 
 # site social media and other links

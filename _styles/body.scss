@@ -13,3 +13,24 @@ body {
   text-align: center;
   line-height: var(--compact);
 }
+
+/* to stretch the footer, and header */
+// body.wide main {
+//   flex-grow: 0;
+// }
+
+// /* main to flex container */
+// body.wide main {
+//   display: flex;
+//   flex-direction: column;
+// }
+
+// /* section inside the main, push the content into the vertical center */
+// body.wide main section {
+//   margin-top: auto;
+//   margin-bottom: auto;
+// }
+
+// body.wide main section {
+//   justify-content: center;
+// }

@@ -36,9 +36,10 @@ Make any desired edits to the source files:
 
 #### Adding pictures for publications
 You can add pictures for publications, by:
-* first add the image (in png, jpg, or svg, keep it small) to [images](images/) 
+* First add the image (in png, jpg, or svg, keep it small) to [images](images/),
+* **Note:** If possible aspect ratio of image should be 4:3 (1.33:1).
 
-* and then add the path to the yaml file in: [_data/citations.yaml](_data/citations.yaml)
+* Then, add the path to the yaml file in: [_data/citations.yaml](_data/citations.yaml).
 
 ##### Example 
 For 'Mathematics of epidemics on networks' book publication with id `doi:10.1007/978-3-319-50806-1`:
@@ -49,6 +50,7 @@ For 'Mathematics of epidemics on networks' book publication with id `doi:10.1007
   # path:
   image: images/Revised_Cover_2_compressed.png```
 ```
+
 
 Then, commit your changes and push them to the `main` branch.
 
