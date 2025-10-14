@@ -74,3 +74,44 @@ main.wide {
   font-size: 0.98rem;
 }
 
+
+// Claude suggested:
+/* Emergency Visibility Fix */
+// * {
+//     visibility: visible !important;
+//     opacity: 1 !important;
+// }
+// .site-title,
+// .header-title,
+// h1.site-name,
+// .nav-link,
+// .menu-item a,
+// nav a,
+// .navigation a {
+//     font-size: 1.2rem !important;
+//     font-weight: bold !important;
+//     color: #000000 !important;
+//     background-color: #ffff00 !important;
+//     padding: 10px !important;
+//     display: inline-block !important;
+//     text-decoration: underline !important;
+//     border: 2px solid #000000 !important;
+// }
+
+// Adapted:
+.site-title,
+.header-title,
+h1.site-name,
+.nav-link,
+.menu-item a,
+nav a,
+.navigation a {
+    font-size: 1.2rem !important;
+    font-weight: bold !important;
+    color: #ffffff !important;
+    background-color: #222936 !important; /* NOTE: from color picker */
+    padding: 10px !important;
+    display: inline-block !important;
+    text-decoration: underline !important;
+    border: 2px solid #000000 !important;
+}
