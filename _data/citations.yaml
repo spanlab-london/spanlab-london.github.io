@@ -1,6 +1,27 @@
 # NOTE: added 'Mathematics of epidemics on networks' book for the highlighted publication
 # NOTE: added 'Disentangling the role of heterogeneity...' and moved `image: images/Revised_Cover_2_compressed.png` under this item
 # NOTE: removed duplicated entry for 'Ethical dilemma...' paper, kept https://royalsocietypublishing.org/doi/10.1098/rsif.2023.0612
+- id: doi:10.64898/2025.12.07.25341782
+  title: "The Paradox of Neglecting Changes in Behavior: How Standard Epidemic Models Misestimate Both Transmissibility and Final Epidemic Size"
+  authors:
+    - Binod Pant
+    - Marko Lalovic
+    - István Z. Kiss
+    - Mauricio Santillana
+  publisher: medRxiv
+  date: '2025-12-08'
+  link: https://www.medrxiv.org/content/early/2025/12/08/2025.12.07.25341782
+  type: preprint
+  image: images/synthetic_experiment.svg
+  buttons:
+    - type: pdf
+      text: View PDF
+      link: https://www.medrxiv.org/content/early/2025/12/08/2025.12.07.25341782.full.pdf
+  tags:
+    - epidemic modeling
+    - behavioral change
+    - epidemiology
+  # image: images/YOUR_IMAGE_FILENAME.png
 - id: arxiv:2501.17800
   title: "Disentangling the role of heterogeneity and hyperedge overlap in explosive contagion on higher-order networks"
   authors:
