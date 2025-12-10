@@ -9,7 +9,7 @@
   date: '2025-12-08'
   link: https://www.medrxiv.org/content/early/2025/12/08/2025.12.07.25341782
   type: preprint
-  image: images/synthetic_experiment.svg
+  image: images/final_fits_mixed.png
   buttons:
     - type: pdf
       text: View PDF
