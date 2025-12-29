@@ -15,7 +15,6 @@ This repository contains the source code for the website of the **Systems, Proce
 - Custom favicons
 - Custom square SVG logo for the SPAN Lab GitHub organization profile (could be animated)
 
-
 ## Build and deploy workflow
 This website uses a **local build** process. 
 
@@ -51,7 +50,6 @@ For 'Mathematics of epidemics on networks' book publication with id `doi:10.1007
   image: images/Revised_Cover_2_compressed.png```
 ```
 
-
 Then, commit your changes and push them to the `main` branch.
 
 ```bash
@@ -78,6 +76,13 @@ The `deploy.sh` script:
 
 
 The live site [spanlab-london.github.io](https://spanlab-london.github.io/) is then updated by GitHub Pages with the new content of the `gh-pages` branch automatically, which can take a minute or two.
+
+## TODOs: 
+Perhaps a better build and deploy workflow would be to not push and track compiled `_site` in a separate branch on GitHub. We can skip GitHub altogether, and use Cloudflare wrangler CLI. That is, build the site locally, then
+```bash
+npx wrangler pages deploy _site --project-name=spanlab-london
+```
+This way, the website will be served we don't need to push and track compiled website in a separate branch.
 
 
 ## Website performance
