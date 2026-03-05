@@ -2,10 +2,9 @@
 name: Marko Lalovic
 image: images/Marko-Lalovic.jpg
 role: phd
-search_publications: false
 links:
   email: m.lalovic@nulondon.ac.uk
-  home-page: https://lalovic.io
+  home-page: https://lalovic.com
   orcid: 0000-0002-1305-0192
   github: markolalovic
   twitter: MarkoLalovic

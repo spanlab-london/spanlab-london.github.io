@@ -1,21 +1,52 @@
-# NOTE: added 'Mathematics of epidemics on networks' book for the highlighted publication
-# NOTE: added 'Disentangling the role of heterogeneity...' and moved `image: images/Revised_Cover_2_compressed.png` under this item
-# NOTE: removed duplicated entry for 'Ethical dilemma...' paper, kept https://royalsocietypublishing.org/doi/10.1098/rsif.2023.0612
-- id: arxiv:2501.17800
-  title: "Disentangling the role of heterogeneity and hyperedge overlap in explosive contagion on higher-order networks"
+- id: doi:10.64898/2025.12.07.25341782
+  title: "The Paradox of Neglecting Changes in Behavior: How Standard Epidemic Models Misestimate Both Transmissibility and Final Epidemic Size"
   authors:
-    - Federico Malizia
-    - Andrés Guzmán
-    - Iacopo Iacopini
+    - Binod Pant
+    - Marko Lalovic
     - István Z. Kiss
-  publisher: arXiv
-  date: '2025-05-16'
-  link: https://arxiv.org/abs/2501.17800
+    - Mauricio Santillana
+  publisher: medRxiv
+  date: '2025-12-08'
+  link: https://www.medrxiv.org/content/10.64898/2025.12.07.25341782v3
   type: preprint
+  image: images/final_fits_mixed.png
   buttons:
     - type: pdf
       text: View PDF
-      link: https://arxiv.org/pdf/2501.17800.pdf
+      link: https://www.medrxiv.org/content/10.64898/2025.12.07.25341782v3.full.pdf
+  tags:
+    - epidemic modeling
+    - behavioral change
+    - epidemiology
+- id: doi:10.48550/arXiv.2601.15199
+  title: Unveiling the impact of cross-order hyperdegree correlations in contagion processes on hypergraphs
+  authors:
+  - Andrés Guzmán
+  - Federico Malizia
+  - István Z. Kiss
+  publisher: arXiv
+  date: '2026-01-23'
+  link: https://arxiv.org/abs/2601.15199
+- id: doi:10.48550/arXiv.2601.10522
+  title: Nested hyperedges promote the onset of collective transitions but suppress explosive behavior
+  authors:
+  - Federico Malizia
+  - Andrés Guzmán
+  - Federico Battiston
+  - István Z. Kiss
+  publisher: arXiv
+  date: '2026-01-15'
+  link: https://arxiv.org/abs/2601.10522
+- id: doi:10.1103/PhysRevLett.135.207401
+  title: Disentangling the role of heterogeneity and hyperedge overlap in explosive contagion on higher-order networks
+  authors:
+  - Federico Malizia
+  - Andrés Guzmán
+  - Iacopo Iacopini
+  - István Z. Kiss
+  publisher: Physical Review Letters
+  date: '2025-11-14'
+  link: https://doi.org/10.1103/PhysRevLett.135.207401
   tags:
     - higher-order networks
     - contagion dynamics
