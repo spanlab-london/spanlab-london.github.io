@@ -1,3 +1,14 @@
+- id: arXiv:2601.04434
+  title: Reconstructing MSM Sexual Networks to Guide PrEP Distribution Strategies for HIV Prevention
+  authors:
+    - "Jo\xE3o Br\xE1zia"
+    - "Istv\xE1n Z. Kiss"
+    - "Alexandre P. Francisco"
+    - "Andreia Sofia Teixeira"
+  publisher: arXiv
+  date: '2026-01-07'
+  link: https://arxiv.org/abs/2601.04434
+  type: preprint
 - id: doi:10.64898/2025.12.07.25341782
   title: "The Paradox of Neglecting Changes in Behavior: How Standard Epidemic Models Misestimate Both Transmissibility and Final Epidemic Size"
   authors:
