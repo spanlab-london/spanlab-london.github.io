@@ -130,7 +130,7 @@
   orcid: 0000-0003-1473-6644
   plugin: orcid.py
   file: orcid.yaml
-- id: arXiv:2502.19957
+- id: doi:10.1038/s41467-026-70013-1
   title: 'Unveiling individual and collective temporal patterns in the tanker shipping network'
   authors:
   - Kevin Teo
@@ -140,10 +140,9 @@
   - Martin Ireland
   - Mauricio Santillana
   - "Istv\xE1n Zolt\xE1n Kiss"
-  publisher: arXiv
-  date: '2025-02-27'
-  link: https://arxiv.org/abs/2502.19957
-  type: preprint
+  publisher: Nature Communications
+  date: '2026-02-27'
+  link: https://doi.org/10.1038/s41467-026-70013-1
   image: images/shipping_dmd.png
 - id: doi:10.1098/rsif.2023.0612
   title: Ethical dilemma arises from optimizing interventions for epidemics in heterogeneous
