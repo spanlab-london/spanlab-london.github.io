@@ -1,3 +1,21 @@
+- id: arXiv:2604.20422
+  title: Likelihood-based inference for birth-death processes with composite birth mechanisms
+  authors:
+    - Marko Lalovic
+    - Nicos Georgiou
+    - István Z. Kiss
+  publisher: arXiv
+  date: '2026-04-22'
+  link: https://arxiv.org/abs/2604.20422
+  type: preprint
+  buttons:
+    - type: pdf
+      text: View PDF
+      link: https://arxiv.org/pdf/2604.20422v1
+  tags:
+    - birth-death processes
+    - likelihood inference
+    - higher-order epidemics
 - id: arXiv:2601.04434
   title: Reconstructing MSM Sexual Networks to Guide PrEP Distribution Strategies for HIV Prevention
   authors:
