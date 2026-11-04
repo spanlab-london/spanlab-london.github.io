@@ -27,22 +27,22 @@
   date: '2026-01-07'
   link: https://arxiv.org/abs/2601.04434
   type: preprint
-- id: doi:10.64898/2025.12.07.25341782
-  title: "The Paradox of Neglecting Changes in Behavior: How Standard Epidemic Models Misestimate Both Transmissibility and Final Epidemic Size"
+- id: doi:10.1371/journal.pcbi.1014746
+  title: "The paradox of neglecting changes in behavior: How standard epidemic models misestimate both transmissibility and final epidemic size"
   authors:
     - Binod Pant
     - Marko Lalovic
     - István Z. Kiss
     - Mauricio Santillana
-  publisher: medRxiv
-  date: '2025-12-08'
-  link: https://www.medrxiv.org/content/10.64898/2025.12.07.25341782v3
-  type: preprint
+  publisher: PLOS Computational Biology
+  date: '2026-09-03'
+  link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014746
+  type: paper
   image: images/final_fits_mixed.png
   buttons:
     - type: pdf
       text: View PDF
-      link: https://www.medrxiv.org/content/10.64898/2025.12.07.25341782v3.full.pdf
+      link: "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1014746&type=printable"
   tags:
     - epidemic modeling
     - behavioral change
