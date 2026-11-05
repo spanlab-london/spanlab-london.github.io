@@ -1,4 +1,4 @@
-- id: doi:10.1103/PhysRevLett.137.167402
+- id: doi:10.1103/rvlj-fmf9
   title: Nested hyperedges promote the onset of collective transitions but suppress explosive behavior
   authors:
     - Federico Malizia
@@ -6,33 +6,33 @@
     - Federico Battiston
     - István Z. Kiss
   publisher: Physical Review Letters
-  date: '2026-10-16'
+  date: '2026-10-14'
   image: images/paper_nestedness.png
-  link: https://doi.org/10.1103/PhysRevLett.137.167402
+  link: https://doi.org/10.1103/rvlj-fmf9
   type: article
   buttons:
     - type: pdf
       text: View Article
-      link: https://doi.org/10.1103/PhysRevLett.137.167402
+      link: https://doi.org/10.1103/rvlj-fmf9
   tags:
     - hypergraphs
     - higher-order networks
     - explosive transitions
-- id: doi:10.1103/PhysRevE.114.014305
+- id: doi:10.1103/1qmt-gx5f
   title: Unveiling the impact of cross-order hyperdegree correlations in contagion processes on hypergraphs
   authors:
     - Andrés Guzmán
     - Federico Malizia
     - István Z. Kiss
   publisher: Physical Review E
-  date: '2026-07-01'
+  date: '2026-07-06'
   image: images/paper_hyperdegree_correlation.png
-  link: https://doi.org/10.1103/PhysRevE.114.014305
+  link: https://doi.org/10.1103/1qmt-gx5f
   type: article
   buttons:
     - type: pdf
       text: View Article
-      link: https://doi.org/10.1103/PhysRevE.114.014305
+      link: https://doi.org/10.1103/1qmt-gx5f
   tags:
     - hypergraphs
     - contagion processes
@@ -55,17 +55,6 @@
     - birth-death processes
     - likelihood inference
     - higher-order epidemics
-- id: arXiv:2601.04434
-  title: Reconstructing MSM Sexual Networks to Guide PrEP Distribution Strategies for HIV Prevention
-  authors:
-    - "Jo\xE3o Br\xE1zia"
-    - "Istv\xE1n Z. Kiss"
-    - "Alexandre P. Francisco"
-    - "Andreia Sofia Teixeira"
-  publisher: arXiv
-  date: '2026-01-07'
-  link: https://arxiv.org/abs/2601.04434
-  type: preprint
 - id: doi:10.1371/journal.pcbi.1014746
   title: "The paradox of neglecting changes in behavior: How standard epidemic models misestimate both transmissibility and final epidemic size"
   authors:
@@ -86,7 +75,7 @@
     - epidemic modeling
     - behavioral change
     - epidemiology
-- id: doi:10.1103/PhysRevLett.135.207401
+- id: doi:10.1103/z3d5-94zb
   title: Disentangling the role of heterogeneity and hyperedge overlap in explosive contagion on higher-order networks
   authors:
   - Federico Malizia
@@ -95,7 +84,7 @@
   - István Z. Kiss
   publisher: Physical Review Letters
   date: '2025-11-14'
-  link: https://doi.org/10.1103/PhysRevLett.135.207401
+  link: https://doi.org/10.1103/z3d5-94zb
   tags:
     - higher-order networks
     - contagion dynamics
@@ -1443,6 +1432,7 @@
     - Mauricio Santillana
   publisher: medRxiv
   date: '2026-10-22'
+  image: images/paper_aggregation.png
   link: https://www.medrxiv.org/content/10.64898/2026.10.20.26366033v1
   type: preprint
   buttons:
@@ -1461,6 +1451,7 @@
     - István Z. Kiss
   publisher: arXiv
   date: '2026-10-04'
+  image: images/paper_fast_reduction.png
   link: https://arxiv.org/abs/2610.05467
   type: preprint
   buttons:
@@ -1501,6 +1492,7 @@
     - István Z. Kiss
     - Vinko Zlatić
   publisher: arXiv
+  image: images/paper_variance_approx.png
   date: '2026-07-03'
   link: https://arxiv.org/abs/2607.03300
   type: preprint
@@ -1522,6 +1514,7 @@
     - István Z. Kiss
   publisher: arXiv
   date: '2026-06-25'
+  image: images/paper_multi_strain_spread.png
   link: https://arxiv.org/abs/2502.20460
   type: preprint
   buttons:
@@ -1542,6 +1535,7 @@
     - István Z. Kiss
   publisher: arXiv
   date: '2026-03-04'
+  image: images/paper_contact_tracing.png
   link: https://arxiv.org/abs/2603.04059
   type: preprint
   buttons:
@@ -1560,6 +1554,7 @@
     - Alexandre P. Francisco
     - Andreia Sofia Teixeira
   publisher: arXiv
+  image: images/paper_reconstructing_MSM.png
   date: '2026-01-07'
   link: https://arxiv.org/abs/2601.04434
   type: preprint
