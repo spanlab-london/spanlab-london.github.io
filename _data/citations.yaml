@@ -98,6 +98,9 @@
     - type: pdf
       text: Table of Contents
       link: http://scholar.harvard.edu/files/joelmiller/files/Tab_of_cont_Index_Refs.pdf
+    - type: website
+      text: 2nd edition (2026)
+      link: https://link.springer.com/book/10.1007/978-3-032-14885-8
   tags:
     - epidemiology
     - network theory
@@ -1406,3 +1409,145 @@
   orcid: 0000-0003-1473-6644
   plugin: orcid.py
   file: orcid.yaml
+# NEW
+- id: doi:10.64898/2026.10.20.26366033
+  title: "Choosing the spatial scale of aggregation in epidemic models: compression versus distortion"
+  authors:
+    - Yash R. Bhora
+    - Haridas K. Das
+    - István Z. Kiss
+    - Kris V. Parag
+    - Esteban Moro
+    - Lucas M. Stolerman
+    - Vittoria Colizza
+    - Mauricio Santillana
+  publisher: medRxiv
+  date: '2026-10-22'
+  link: https://www.medrxiv.org/content/10.64898/2026.10.20.26366033v1
+  type: preprint
+  buttons:
+    - type: pdf
+      text: View PDF
+      link: https://www.medrxiv.org/content/10.64898/2026.10.20.26366033v1.full.pdf
+  tags:
+    - epidemic modeling
+    - spatial aggregation
+    - metapopulation models
+- id: arxiv:2610.05467
+  title: "Fast-variable reduction to complex contagion unifies epidemic models"
+  authors:
+    - Laurent Hébert-Dufresne
+    - Péter L. Simon
+    - István Z. Kiss
+  publisher: arXiv
+  date: '2026-10-04'
+  link: https://arxiv.org/abs/2610.05467
+  type: preprint
+  buttons:
+    - type: pdf
+      text: View PDF
+      link: https://arxiv.org/pdf/2610.05467
+  tags:
+    - epidemic modeling
+    - complex contagion
+    - model reduction
+- id: aleta2026epidemics
+  title: "Epidemics in Context: Beyond Digital Shadows of Human Behavior"
+  authors:
+    - Alberto Aleta
+    - Elisabetta Colosi
+    - Andreia Sofia Teixeira
+    - Henrique Ferraz de Arruda
+    - Mariana Macedo
+    - Elsa Arcaute
+    - István Z. Kiss
+    - Joan Benach
+    - Angel Sánchez
+    - Alessia Melegaro
+    - Yamir Moreno
+  publisher: Nature Health (accepted)
+  date: '2026-09-01'
+  type: paper
+  tags:
+    - epidemic modeling
+    - behavioral change
+    - digital epidemiology
+- id: arxiv:2607.03300
+  title: "Variance of the SIS Epidemic on Networks: A Diffusion Approximation"
+  authors:
+    - Lucija Nora Farkaš
+    - Sebastian Morel Balbi
+    - Hrvoje Štefančić
+    - István Z. Kiss
+    - Vinko Zlatić
+  publisher: arXiv
+  date: '2026-07-03'
+  link: https://arxiv.org/abs/2607.03300
+  type: preprint
+  buttons:
+    - type: pdf
+      text: View PDF
+      link: https://arxiv.org/pdf/2607.03300
+  tags:
+    - epidemic modeling
+    - networks
+    - stochastic processes
+- id: arxiv:2502.20460
+  title: "Multi-strain spreading dynamics under arbitrary transmission kernels"
+  authors:
+    - Sagar Kumar
+    - Moritz Laber
+    - Maimuna S. Majumder
+    - Brooke Foucault Welles
+    - István Z. Kiss
+  publisher: arXiv
+  date: '2026-06-25'
+  link: https://arxiv.org/abs/2502.20460
+  type: preprint
+  buttons:
+    - type: pdf
+      text: View PDF
+      link: https://arxiv.org/pdf/2502.20460
+  tags:
+    - epidemic modeling
+    - multi-strain dynamics
+    - networks
+- id: arxiv:2603.04059
+  title: "To trace or not to trace: analytical insights from network-based contact-tracing models"
+  authors:
+    - Giulia de Meijere
+    - Andrea Pugliese
+    - Gerardo Iñiguez
+    - Péter L. Simon
+    - István Z. Kiss
+  publisher: arXiv
+  date: '2026-03-04'
+  link: https://arxiv.org/abs/2603.04059
+  type: preprint
+  buttons:
+    - type: pdf
+      text: View PDF
+      link: https://arxiv.org/pdf/2603.04059
+  tags:
+    - contact tracing
+    - networks
+    - epidemic modeling
+- id: arxiv:2601.04434
+  title: "Reconstructing MSM Sexual Networks to Guide PrEP Distribution Strategies for HIV Prevention"
+  authors:
+    - João Brázia
+    - István Z. Kiss
+    - Alexandre P. Francisco
+    - Andreia Sofia Teixeira
+  publisher: arXiv
+  date: '2026-01-07'
+  link: https://arxiv.org/abs/2601.04434
+  type: preprint
+  buttons:
+    - type: pdf
+      text: View PDF
+      link: https://arxiv.org/pdf/2601.04434
+  tags:
+    - HIV
+    - PrEP
+    - network reconstruction
