@@ -1,3 +1,22 @@
+- id: doi:10.1103/PhysRevE.114.014305
+  title: Unveiling the impact of cross-order hyperdegree correlations in contagion processes on hypergraphs
+  authors:
+    - Andrés Guzmán
+    - Federico Malizia
+    - István Z. Kiss
+  publisher: Physical Review E
+  date: '2026-07-01'
+  image: images/paper_hyperdegree_correlation.png
+  link: https://doi.org/10.1103/PhysRevE.114.014305
+  type: article
+  buttons:
+    - type: pdf
+      text: View Article
+      link: https://doi.org/10.1103/PhysRevE.114.014305
+  tags:
+    - hypergraphs
+    - contagion processes
+    - higher-order networks
 - id: arXiv:2604.20422
   title: Likelihood-based inference for birth-death processes with composite birth mechanisms
   authors:
