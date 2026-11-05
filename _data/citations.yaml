@@ -1570,3 +1570,22 @@
     - HIV
     - PrEP
     - network reconstruction
+- id: arxiv:2607.18003
+  title: "A principled closure framework for higher-order SIS epidemic models on networks"
+  authors:
+    - Kevin Teo
+    - Peter L. Simon
+    - István Z. Kiss
+  publisher: arXiv
+  date: '2026-07-20'
+  image: images/inter-order-5-motifs.png
+  link: https://arxiv.org/abs/2607.18003
+  type: preprint
+  buttons:
+    - type: pdf
+      text: View PDF
+      link: https://arxiv.org/pdf/2607.18003
+  tags:
+    - SIS epidemics
+    - higher-order networks
+    - moment closure
