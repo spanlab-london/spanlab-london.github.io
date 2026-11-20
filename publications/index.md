@@ -18,6 +18,7 @@ This page lists our lab's publications. For a complete and up-to-date list, plea
 
 {% include section.html %}
 
+
 ## All Publications
 
 {% include search-box.html %}
